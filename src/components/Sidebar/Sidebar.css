@@ -1,0 +1,33 @@
+
+  .sidebar {
+    width: 350px;
+    height: 100vh; /* Full height */
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto; /* Enables vertical scrolling */
+    scrollbar-width: thin; /* Firefox scrollbar width */
+    scrollbar-color: #888 #f0f0f0; /* Firefox scrollbar color */
+  }
+  
+  .sidebar-section {
+    padding: 20px;
+    background-color: #ddd;
+    border-bottom: 1px solid #ccc;
+    flex: 0 0 auto; /* Prevent sections from stretching */
+  }
+  
+  /* Optional: Add hover effects */
+  .sidebar-section:hover {
+    background-color: #ccc;
+  }
+
+  .sidebar-section.active {
+    background-color: #ccc;
+  }
+
+  .title {
+    margin-bottom: 4px;
+    font-size: larger;
+  }
+  

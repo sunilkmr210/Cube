@@ -1,0 +1,93 @@
+[
+    
+    {
+        "name": "Customer1",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi1"
+    },
+
+    {
+        "name": "Customer2",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi2"
+    },
+    {
+        "name": "Customer3",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi3"
+    },
+
+    {
+        "name": "Customer4",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi4"
+    },
+    {
+        "name": "Customer5",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi5"
+    },
+
+    {
+        "name": "Customer6",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi6"
+    },
+    {
+        "name": "Customer7",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi7"
+    },
+
+    {
+        "name": "Customer8",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi8"
+    },
+    {
+        "name": "Customer9",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi9"
+    },
+
+    {
+        "name": "Customer10",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi10"
+    },
+    {
+        "name": "Customer11",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi11"
+    },
+
+    {
+        "name": "Customer12",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi12"
+    },
+    {
+        "name": "Customer13",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi13"
+    },
+
+    {
+        "name": "Customer14",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi14"
+    },
+    {
+        "name": "Customer15",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi15"
+    },
+
+    {
+        "name": "Customer16",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat placeat voluptatibus iusto soluta saepe dolore.",
+        "address": "delhi16"
+    }
+    
+]
+
